@@ -2,7 +2,7 @@
 Resource for building ARDB into the docker image [ehealthafrica/ardb](https://hub.docker.com/r/ehealthafrica/ardb)
 
 #### ARDB
-ARDB is an implementation of the Redis protocol which uses on-disk rather than in memory persistence.
+ARDB is an implementation of the Redis protocol which uses on-disk rather than in memory persistence. It is mostly compliant with Redis 2.8. It does _not_ handle Keyspace Notifications. See the docs for more details.
 https://github.com/yinqiwen/ardb
 
 This build implementation uses RocksDB as the storage layer.
