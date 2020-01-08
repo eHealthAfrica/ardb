@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  ardb:
+    build: ardb
+    image: ehealthafrica/ardb
