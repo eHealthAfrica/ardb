@@ -1,5 +1,5 @@
 # ARDB
-Resource for building ARDB into the docker image ehealthafrica/ardb
+Resource for building ARDB into the docker image [ehealthafrica/ardb](https://hub.docker.com/r/ehealthafrica/ardb)
 
 #### ARDB
 ARDB is an implementation of the Redis protocol which uses on-disk rather than in memory persistence.
